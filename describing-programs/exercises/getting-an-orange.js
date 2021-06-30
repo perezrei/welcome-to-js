@@ -25,3 +25,4 @@ if (theOrange === "orange") {
 }
 
 alert(theOrange + " is a " + description + " orange");
+# pendiente. estudiar de nuevo
